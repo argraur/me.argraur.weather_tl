@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="type_city">Введите имя города!</string>
+    <string name="use_imperial_units">Температура в F°</string>
+    <string name="city">Город</string>
+    <string name="where">В %1$s, %2$s</string>
+    <string name="humidity">Влажность</string>
+    <string name="pressure">Давление</string>
+    <string name="pressure_value">%1$s гПа</string>
+    <string name="wind">Ветер</string>
+    <string name="use_location">Использовать геолокацию</string>
+    <string name="menu_today">Сегодня</string>
+    <string name="menu_tomorrow">Завтра</string>
+</resources>

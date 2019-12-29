@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="type_city">Type your city\'s name!</string>
+    <string name="use_imperial_units">Use imperial units</string>
+    <string name="city">City</string>
+    <string name="where">In %1$s, %2$s</string>
+    <string name="degrees" translatable="false">%1$d°%2$s</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_value" translatable="false">%1$s%%</string>
+    <string name="pressure">Pressure</string>
+    <string name="pressure_value">%1$s hPa</string>
+    <string name="wind">Wind</string>
+    <string name="wind_value" translatable="false">%1$s m/s</string>
+    <string name="use_location">Use Location</string>
+    <string name="menu_today">Today</string>
+    <string name="menu_tomorrow">Tomorrow</string>
+</resources>
